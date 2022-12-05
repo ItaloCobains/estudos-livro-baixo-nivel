@@ -1,0 +1,1 @@
+gcc -o main -std=c99 -ansi -pedantic-errors -Wall -Werror main.c
